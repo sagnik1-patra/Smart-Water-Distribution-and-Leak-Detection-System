@@ -1,0 +1,4 @@
+feature_count: 4
+model: Hybrid_AIS_CSA_LSTM
+optimizer: adam
+timesteps: 5

@@ -1,0 +1,12 @@
+features:
+- sensor_id
+- pressure_(bar)
+- flow_rate_(l/s)
+- "temperature_(\xB0c)"
+loss: mse
+metrics:
+- mae
+model_name: HydroGuard_LSTM_v3
+optimizer: adam
+target: burst_status
+timesteps: 5
