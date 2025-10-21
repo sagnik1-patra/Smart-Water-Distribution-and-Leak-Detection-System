@@ -1,4 +1,4 @@
-🚰 HydroGuard – Hybrid AIS + QPSO Optimized Smart Water Leak Detection System
+🚰 HydroGuard – Hybrid AIS + QPSO Optimized Smart Water Leak Detection System.
 🌟 Overview
 
 HydroGuard is an AI-powered water distribution and leak detection system that integrates machine learning and optimization algorithms to predict leaks, forecast water flow, and minimize wastage.
